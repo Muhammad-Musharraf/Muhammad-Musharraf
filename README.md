@@ -35,19 +35,20 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,sklearn,git,github,vscode,docker,linux" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,streamlit,flask,numpy,pandas,matplotlib,jupyter,anaconda,figma" /><br>
 </div>
-
-<br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+  </picture>
   <br/><br/><br/>
 </div>
 
