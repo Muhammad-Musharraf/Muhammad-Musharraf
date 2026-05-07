@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/Muhammad-Musharraf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://facebook.com/Muhammad-Musharaf" target="_blank">
+  <a href="[https://facebook.com/Muhammad-Musharaf](https://www.facebook.com/muhammad.musharaf.908132/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -44,17 +44,11 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/><br/><br/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <hr/>
 
