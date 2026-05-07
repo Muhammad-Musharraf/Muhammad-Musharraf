@@ -25,27 +25,34 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/Muhammad-Musharraf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://facebook.com/Muhammad-Musharaf" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
 
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,sklearn,git,github,vscode,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,git,github,vscode,docker,linux,sklearn" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,streamlit,flask,numpy,pandas,matplotlib,jupyter,anaconda,figma" /><br>
 </div>
+
+<br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+  </picture>
+
   <br/><br/><br/>
 </div>
 
@@ -61,29 +68,15 @@
 </div>
 
 <br/><br/>
-<hr/>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies 🏆</h2>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Musharraf&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 <hr/>
-
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
 <br/>
 
 <div align="center">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Musharraf&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Musharraf&icon=0&color=0" />
 </div>
 
-<hr/>
 <br/>
 
 <div align="center">
