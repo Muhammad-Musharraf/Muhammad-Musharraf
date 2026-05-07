@@ -1,27 +1,95 @@
-# 💫 About Me:
-# 👋 Hi, I'm Muhammad Musharraf<br><br>🎓 Computer Science Student passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Software Engineering**.<br><br>💻 I enjoy building real-world projects using:<br><br>* Python<br>* FastAPI<br>* TensorFlow<br>* Scikit-learn<br>* C++<br>* SQL<br>* Git & GitHub<br><br>🚀 Currently working on:<br><br>* Named Entity Recognition (NER)<br>* MLOps & ML Pipelines<br>* AI-powered applications<br>* FastAPI backend systems<br>* Data Structures & Algorithms<br><br>📚 I love learning about:<br><br>* Deep Learning<br>* NLP<br>* System Design<br>* Software Architecture<br>* API Development<br><br>🛠️ Some of my projects include:<br><br>* Queueing Theory Calculator<br>* Crime Reporting Management System<br>* Flood Prediction ML Model<br>* Data Structures & Algorithms Repository<br>* NER APIs with FastAPI<br><br>🌱 Always learning, building, and improving through hands-on projects.<br><br>📫 Connect with me on GitHub and follow my journey in AI & Software Development.<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Musharraf.Muhammad-Musharraf" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Musharraf!;" />
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Musharaf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Musharraf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadmusharraf868@gmail.com) 
+<h3 align="center">A passionate AI & ML Developer from Pakistan 🇵🇰</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muhammad-Musharraf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Muhammad-Musharraf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Musharraf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Musharraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔭 I'm currently working on **NER APIs with FastAPI & MLOps Pipelines**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Musharraf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 I'm currently learning **Deep Learning, NLP, System Design & Docker**
 
----
-[![](https://komarev.com/ghpvc/?username=Muhammad-Musharraf&icon=0&color=0)](https://visitcount.itsvg.in)
+💬 Ask me about **Python, FastAPI, TensorFlow, Scikit-learn... or anything [here](https://github.com/Muhammad-Musharraf/Muhammad-Musharraf/issues)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ Fun fact **I build ML models that predict floods, crop recommendations & diabetes — one dataset at a time!**
+
+</div>
+
+<div align="center">
+  <a href="mailto:muhammadmusharraf868@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/Muhammad-Musharraf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/Muhammad-Musharaf" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,sklearn,git,github,vscode,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,streamlit,flask,numpy,pandas,matplotlib,jupyter,anaconda,figma" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Muhammad-Musharraf&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Muhammad-Musharraf&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Muhammad-Musharraf&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies 🏆</h2>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Musharraf&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Muhammad-Musharraf&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+<hr/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Musharraf&icon=0&color=0" />
+</div>
+
+<br/>
