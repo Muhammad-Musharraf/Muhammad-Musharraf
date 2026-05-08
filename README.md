@@ -10,13 +10,13 @@
 
 <div align="center">
 
-🔭 I'm currently working on **NER APIs with FastAPI & MLOps Pipelines**
+🔭 I'm currently working on **MLOps Pipelines and Deep Learning Projects**
 
-🌱 I'm currently learning **Deep Learning, NLP, System Design & Docker**
+🌱 I'm currently learning **Deep Learning, NLP, FastAPI & Docker**
 
 💬 Ask me about **Python, FastAPI, TensorFlow, Scikit-learn... or anything [here](https://github.com/Muhammad-Musharraf/Muhammad-Musharraf/issues)**
 
-⚡ Fun fact **I build ML models that predict floods, crop recommendations & diabetes — one dataset at a time!**
+⚡ Fun fact **I play a new Games Like GTA VICE CITY*
 
 </div>
 
@@ -35,22 +35,11 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,git,github,vscode,docker,linux,sklearn" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,streamlit,flask,numpy,pandas,matplotlib,jupyter,anaconda,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,tensorflow,pytorch,git,github,vscode,docker" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux,sklearn,mysql,postgres,streamlit,numpy,pandas,matplotlib,jupyter" />
 </div>
-
-<br/>
-<hr/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muhammad-Musharraf/Muhammad-Musharraf/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
