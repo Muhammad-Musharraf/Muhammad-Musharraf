@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/muhammad-musharraf-437424327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="[[https://facebook.com/Muhammad Musharaf](https://www.facebook.com/muhammad.musharaf.908132/)]" target="_blank">
+  <a href="https://www.facebook.com/muhammad.musharaf.908132/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
